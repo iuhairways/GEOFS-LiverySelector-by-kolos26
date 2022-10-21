@@ -1233,6 +1233,10 @@
                 {
                     "name": "Malaysia Airlines",
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/texture_212.jpg"]
+                },
+                {
+                    "name": "emirates EXPO 2020",
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/emiratesexpogreen.jpg"]
                 }
             ]
         },
