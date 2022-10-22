@@ -1237,6 +1237,10 @@
                 {
                     "name": "emirates EXPO 2020",
                     "texture": ["https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/emiratesexpogreen.jpg"]
+                },
+                {
+                    "name": "Gulf air",
+                    "texture": ["https://i.ibb.co/bs74VRz/Gulfair.png"]
                 }
             ]
         },
