@@ -568,6 +568,14 @@
                 {
                     "name": "Tuninter",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/ATR_72-600/tuninter.png"]
+                },
+                {
+                    "name": "Blue Islands",
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/blueislands1.jpg"]
+                },
+                {
+                    "name": "Flybe",
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/flybe.png"]
                 }
             ]
         },
