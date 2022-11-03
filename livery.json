@@ -576,6 +576,10 @@
                 {
                     "name": "Flybe",
                     "texture": ["https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/flybe.png"]
+                },
+                {
+                    "name": "Nua",
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/image9999.jpg"]
                 }
             ]
         },
