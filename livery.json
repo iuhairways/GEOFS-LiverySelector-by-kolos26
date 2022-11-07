@@ -1054,7 +1054,7 @@
             "parts": [0],
             "liveries": [{
                     "name": "TUI",
-                    "texture": ["/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_0.jpg"]
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/liveries/image.png"]
                 },
                 {
                     "name": "Jet Airways",
