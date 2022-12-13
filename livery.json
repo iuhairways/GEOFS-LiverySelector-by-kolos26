@@ -312,6 +312,10 @@
                 {
                     "name": "Japan Airlines",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/japan.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/japan.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/japan.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/japan.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/japan.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/japan.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/japan.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/japan.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/japan.png"]
+                },
+                {
+                    "name": "Japan Airlines",
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/oe-lae.png", "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/oe-lae.png", "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/oe-lae.png", "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/oe-lae.png", "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/oe-lae.png", "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/oe-lae.png", "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/oe-lae.png", "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/oe-lae.png", "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/oe-lae.png"]
                 }
             ]
         },
