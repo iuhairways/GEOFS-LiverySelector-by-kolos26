@@ -531,6 +531,10 @@
                 {
                     "name": "Cebu Pacific (after 2010)",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a319-100/cebunew.png"]
+                },
+                {
+                    "name": "NorthEuropeanAirlines-stagecoach",
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/nua_liveries/main/planebus.png"]
                 }
             ]
         },
