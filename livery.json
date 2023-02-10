@@ -244,6 +244,15 @@
                 }
             ]
         },
+        "4398": {
+            "index": [0],
+            "parts": [0],
+            "liveries": [{
+                    "name": "skybus",
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/liveries/skybusbn2.png"]
+                }
+            ]
+        },
         "18": {
             "index": [3],
             "parts": [0],
