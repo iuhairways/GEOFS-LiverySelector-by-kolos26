@@ -1067,6 +1067,10 @@
                 {
                     "name": "eurowings good",
                     "texture": ["https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/liveries/ewga20n.png"]
+                },
+                {
+                    "name": "gwr",
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/gwra320%20(1).png"]
                 }
             ]
         },
