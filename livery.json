@@ -597,6 +597,10 @@
                 {
                     "name": "Nua",
                     "texture": ["https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/image9999.jpg"]
+                },
+                {
+                    "name": "jet2",
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/j2atr.png"]
                 }
             ]
         },
