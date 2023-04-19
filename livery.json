@@ -1075,6 +1075,10 @@
                 {
                     "name": "gwr",
                     "texture": ["https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/gwra320%20(1).png"]
+                },
+                {
+                    "name": "jet2 holidays",
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/j2hneo.png"]
                 }
             ]
         },
