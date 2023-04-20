@@ -362,6 +362,10 @@
                 {
                     "name": "Cebu Pacific (bigger logo)",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b757-200/RP-C2716.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b757-200/RP-C2716.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b757-200/RP-C2716.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b757-200/RP-C2716.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b757-200/RP-C2716.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b757-200/RP-C2716.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b757-200/RP-C2716.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b757-200/RP-C2716.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b757-200/RP-C2716.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b757-200/RP-C2716.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b757-200/RP-C2716.png"]
+                },
+                {
+                    "name": "jet2holidays",
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/j2h757.png", "https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/j2h757.png", "https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/j2h757.png", "https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/j2h757.png", "https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/j2h757.png", "https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/j2h757.png", "https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/j2h757.png", "https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/j2h757.png", "https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/j2h757.png", "https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/j2h757.png", "https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/j2h757.png"]
                 }
             ]
         },
@@ -1079,6 +1083,10 @@
                 {
                     "name": "jet2 holidays",
                     "texture": ["https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/j2hneo.png"]
+                },
+                {
+                    "name": "jet2.com",
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/trh.png"]
                 }
             ]
         },
