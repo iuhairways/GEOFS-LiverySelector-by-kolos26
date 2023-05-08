@@ -1860,6 +1860,10 @@
                 {
                     "name": "British Airways",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b787-9/british.png"]
+        },
+                {
+                    "name": "air greenland",
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/pid.png"]
         }]
     },
         "3534": {
