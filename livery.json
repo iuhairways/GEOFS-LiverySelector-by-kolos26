@@ -1091,6 +1091,18 @@
                 {
                     "name": "jet2.com",
                     "texture": ["https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/trh.png"]
+                },
+                {
+                    "name": "smartlynx estonia",
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/smartlynx.png"]
+                },
+                {
+                    "name": "smartlynx estonia easyjet",
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/smartlynxeasyjet.png"]
+                },
+                {
+                    "name": "smartlynx estonia tui",
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/tuismartlynx1.png"]
                 }
             ]
         },
