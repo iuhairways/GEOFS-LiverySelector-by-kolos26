@@ -136,6 +136,32 @@
             }
         ]
         },
+        "247": {
+            "index": [0, 0, 0, 0],
+            "parts": [0, 12, 20, 21],
+            "liveries": [
+                {
+                    "name": "Malév",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/malev.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/malev.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/malev.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/malev.png"]
+                },
+                {
+                    "name": "FlyBe",
+                    "texture": ["https://www.geo-fs.com/backend/aircraft/repository/E01_166635_247/texture.png", "https://www.geo-fs.com/backend/aircraft/repository/E01_166635_247/texture.png", "https://www.geo-fs.com/backend/aircraft/repository/E01_166635_247/texture.png", "https://www.geo-fs.com/backend/aircraft/repository/E01_166635_247/texture.png"]
+                },
+                {
+                    "name": "FlyBe (purple-white design)",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/flybepurple.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/flybepurple.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/flybepurple.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/flybepurple.jpg"]
+                },
+                {
+                    "name": "air greenland",
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/imagjsrtsrhe.png", "https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/imagjsrtsrhe.png", "https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/imagjsrtsrhe.png", "https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/imagjsrtsrhe.png"]
+                },
+                {
+                    "name": "gba1",
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/gba.jpg", "https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/gba.jpg", "https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/gba.jpg", "https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/gba.jpg"]
+                }
+            ]
+        },
         "10": {
             "index": [3],
             "parts": [0],
@@ -1346,7 +1372,7 @@
                 "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/adria/image0.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/adria/image1.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/adria/image2.jpg"]
             },
             {
-                "name": "Lufthansa Regonal",
+                "name": "Lufthansa Regional",
                 "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/lufthansa/lh0.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/lufthansa/lh1.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/lufthansa/lh2.jpg"]
             }
         ]
