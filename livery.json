@@ -1376,6 +1376,14 @@
                 "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/lufthansa/lh0.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/lufthansa/lh1.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/lufthansa/lh2.jpg"]
             }
         ]
-        }
+        },
+        "2871": {
+            "index": [0],
+            "parts": [0],
+            "liveries": [{
+                    "name": "easyJet",
+                    "texture": ["https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/ezya21n.png"]
+                }
+          ]            
     }
 }
