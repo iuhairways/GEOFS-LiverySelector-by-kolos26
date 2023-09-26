@@ -1383,7 +1383,9 @@
             "liveries": [{
                     "name": "easyJet",
                     "texture": ["https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/ezya21n.png"]
+                    ]
                 }
-          ]            
+            ]
+        }
     }
 }
