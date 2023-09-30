@@ -7694,7 +7694,11 @@
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a330-900neo/VirginAtlantic.png"
                     ]
-                }
+                },
+                {
+                    "name": "jet 2 (g-vyjl)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/iuhairways/GEOFS-LiverySelector-by-kolos26/main/Jet2_A330-900_geofs_1.png"
             ]
         },
         "4646": {
